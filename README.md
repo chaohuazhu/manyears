@@ -1,6 +1,6 @@
 http://www.labbookpages.co.uk/ 麦克风阵列理论知识
 
-ManyEars 主要是利用XMOS麦克风阵列芯片
+ManyEars 主要是利用XMOS麦克风阵列芯片，sourceforge 另外有更新https://sourceforge.net/p/manyears/wiki/Main_Page/
 
 如果项目只是需要用到建议直接购买全向麦克风
 
