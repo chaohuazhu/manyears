@@ -1,6 +1,9 @@
 http://www.labbookpages.co.uk/ 麦克风阵列理论知识
+
 ManyEars 主要是利用XMOS麦克风阵列芯片
+
 如果项目只是需要用到建议直接购买全向麦克风
+
 # ManyEars Microphone Array-Based Audition for Mobile Robots
 
 ManyEars implements real-time microphone array processing to perform sound source localisation, tracking and separation. It was designed for mobile robot audition in dynamic environments. This project was started at IntRoLab, Université de Sherbrooke, Sherbrooke, Québec, Canada.
